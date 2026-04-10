@@ -106,7 +106,7 @@ This repository includes reusable **GitHub Copilot Chat** prompt skills to speed
 2. Type `#` and select the prompt file you need.
 3. Fill in the prompted inputs and let Copilot generate the script.
 
-> The workspace instructions in [`.github/copilot-instructions.md`](.github/copilot-instructions.md) are automatically applied to every Copilot interaction in this workspace.
+> The workspace instructions in [`.github/copilot-instructions.md`](.github/copilot-instructions.md) are applied to Copilot Chat interactions in this workspace. This requires VS Code with the GitHub Copilot extension and the `github.copilot.chat.codeGeneration.instructions` setting configured in [`.vscode/settings.json`](.vscode/settings.json).
 
 ---
 
