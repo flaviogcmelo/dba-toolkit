@@ -12,6 +12,9 @@ github.com/flaviogcmelo/
 ├── 🎯  dba-toolkit                     ← Hub (this repo)
 │       README, ARCHITECTURE, CONTRIBUTING
 │       CODE_OF_CONDUCT, docs/, roadmap/, templates/
+│       .github/copilot-instructions.md
+│       .github/prompts/ (Copilot skills)
+│       .vscode/settings.json
 │
 ├── 🗄️  DATABASES
 │   │
